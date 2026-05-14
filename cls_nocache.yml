@@ -44,7 +44,7 @@ ruleset=🐟 Final,[]FINAL
 ;设置规则标志位
 
 ;设置分组标志位
-custom_proxy_group=🔰 Proxy`select`[]🤏 Manual`[]🅰️ Manual A`[]🅱️ Manual B`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`[]DIRECT
+custom_proxy_group=🔰 Proxy`select`[]🤏 Manual`[]🤏 Manual A`[]🤏 Manual B`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`[]DIRECT
 custom_proxy_group=🤏 Manual`select`.*
 custom_proxy_group=🤏 Manual A`select`.*
 custom_proxy_group=🤏 Manual B`select`.*
