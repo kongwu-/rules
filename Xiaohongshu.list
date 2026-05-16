@@ -1,3 +1,5 @@
 DOMAIN-KEYWORD,xiaohongshu
 DOMAIN-KEYWORD,xhs
 USER-AGENT,discover*
+PROCESS-NAME,com.xingin.xhs
+
