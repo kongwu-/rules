@@ -44,31 +44,31 @@ ruleset=🐟 Final,[]FINAL
 ;设置规则标志位
 
 ;设置分组标志位
-custom_proxy_group=🔰 Proxy`select`[]🤏 Manual`[]🤏 Manual A`[]🤏 Manual B`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`[]DIRECT
+custom_proxy_group=🔰 Proxy`select`[]🤏 Manual`[]🤏 Manual A`[]🤏 Manual B`🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`[]DIRECT
 custom_proxy_group=🤏 Manual`select`.*
 custom_proxy_group=🤏 Manual A`select`.*
 custom_proxy_group=🤏 Manual B`select`.*
 custom_proxy_group=🔥 Auto`url-test`.*`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=🐶 JD Office`select`[]DIRECT`[]🔰 Proxy`[]🔥 Auto
-custom_proxy_group=🍟 YouTube`select`[]🔰 Proxy`[]🤏 Manual`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
-custom_proxy_group=🐦 Twitter`select`[]🔰 Proxy`[]🤏 Manual`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
-custom_proxy_group=🎵 Tiktok`select`[]🔰 Proxy`[]🤏 Manual`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
-custom_proxy_group=🧲 Telegram`select`[]🔰 Proxy`[]🤏 Manual`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
-custom_proxy_group=🥊 Google`select`[]🔰 Proxy`[]🤏 Manual`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
-custom_proxy_group=🤮 Instagram`select`[]🔰 Proxy`[]🤏 Manual`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
-custom_proxy_group=🧠 OpenAI`select`[]🔰 Proxy`[]🤏 Manual`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
-custom_proxy_group=🅰️ Anthropic`select`[]🔰 Proxy`[]🤏 Manual`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
-custom_proxy_group=🧠 OpenRouter`select`[]🔰 Proxy`[]🤏 Manual`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
-custom_proxy_group=🖕 Adobe`select`[]🔰 Proxy`[]🤏 Manual`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
-custom_proxy_group=📕 Xiaohongshu`select`[]🔰 Proxy`[]🤏 Manual`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]🇨🇳 China`[]😓 Cheap`.*
-custom_proxy_group=🍎 Apple`select`[]DIRECT`[]🔰 Proxy`[]🤏 Manual`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
-custom_proxy_group=🖥 Microsoft`select`[]DIRECT`[]🔰 Proxy`[]🤏 Manual`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
-custom_proxy_group=📝 Notion`select`[]🔰 Proxy`[]🤏 Manual`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
-custom_proxy_group=💃 Scrape`select`[]DIRECT`[]🔰 Proxy`[]🤏 Manual`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
-custom_proxy_group=🪙 Crypto`select`[]DIRECT`[]🔰 Proxy`[]🤏 Manual`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
+custom_proxy_group=🍟 YouTube`select`[]🔰 Proxy`[]🤏 Manual`[]🤏 Manual A`[]🤏 Manual B`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
+custom_proxy_group=🐦 Twitter`select`[]🔰 Proxy`[]🤏 Manual`[]🤏 Manual A`[]🤏 Manual B`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
+custom_proxy_group=🎵 Tiktok`select`[]🔰 Proxy`[]🤏 Manual`[]🤏 Manual A`[]🤏 Manual B`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
+custom_proxy_group=🧲 Telegram`select`[]🔰 Proxy`[]🤏 Manual`[]🤏 Manual A`[]🤏 Manual B`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
+custom_proxy_group=🥊 Google`select`[]🔰 Proxy`[]🤏 Manual`[]🤏 Manual A`[]🤏 Manual B`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
+custom_proxy_group=🤮 Instagram`select`[]🔰 Proxy`[]🤏 Manual`[]🤏 Manual A`[]🤏 Manual B`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
+custom_proxy_group=🧠 OpenAI`select`[]🔰 Proxy`[]🤏 Manual`[]🤏 Manual A`[]🤏 Manual B`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
+custom_proxy_group=🅰️ Anthropic`select`[]🔰 Proxy`[]🤏 Manual`[]🤏 Manual A`[]🤏 Manual B`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
+custom_proxy_group=🧠 OpenRouter`select`[]🔰 Proxy`[]🤏 Manual`[]🤏 Manual A`[]🤏 Manual B`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
+custom_proxy_group=🖕 Adobe`select`[]🔰 Proxy`[]🤏 Manual`[]🤏 Manual A`[]🤏 Manual B`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
+custom_proxy_group=📕 Xiaohongshu`select`[]🔰 Proxy`[]🤏 Manual`[]🤏 Manual A`[]🤏 Manual B`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]🇨🇳 China`[]😓 Cheap`.*
+custom_proxy_group=🍎 Apple`select`[]DIRECT`[]🔰 Proxy`[]🤏 Manual`[]🤏 Manual A`[]🤏 Manual B`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
+custom_proxy_group=🖥 Microsoft`select`[]DIRECT`[]🔰 Proxy`[]🤏 Manual`[]🤏 Manual A`[]🤏 Manual B`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
+custom_proxy_group=📝 Notion`select`[]🔰 Proxy`[]🤏 Manual`[]🤏 Manual A`[]🤏 Manual B`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
+custom_proxy_group=💃 Scrape`select`[]DIRECT`[]🔰 Proxy`[]🤏 Manual`[]🤏 Manual A`[]🤏 Manual B`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
+custom_proxy_group=🪙 Crypto`select`[]DIRECT`[]🔰 Proxy`[]🤏 Manual`[]🤏 Manual A`[]🤏 Manual B`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap`.*
 
 custom_proxy_group=🎯 Global Direct`select`[]DIRECT`[]🔰 Proxy`[]🔥 Auto
-custom_proxy_group=🐟 Final`select`[]🔰 Proxy`[]🤏 Manual`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap
+custom_proxy_group=🐟 Final`select`[]🔰 Proxy`[]🤏 Manual`[]🤏 Manual A`[]🤏 Manual B`[]🔥 Auto`[]🇺🇲 United States`[]🇭🇰 Hong Kong`[]🇨🇳 Taiwan`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🇰🇷 Korea`[]🥬 Experimental`[]😓 Cheap
 
 custom_proxy_group=🥬 Experimental`select`(实验)
 custom_proxy_group=😓 Cheap`select`^((?!(台|日|韩|新|美|港|Expire|Traffic|流量|剩余)).)*$
